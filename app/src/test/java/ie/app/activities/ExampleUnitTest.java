@@ -1,4 +1,4 @@
-package ie.app;
+package ie.app.activities;
 
 import org.junit.Test;
 
